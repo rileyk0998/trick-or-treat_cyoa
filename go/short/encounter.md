@@ -2,5 +2,5 @@
   
   
 #### What do you do?  
-[run](run.md)  
-[fight](fight.md)
+[Run!!!](run.md)  
+[Fight!](fight.md)  

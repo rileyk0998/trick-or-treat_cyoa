@@ -8,5 +8,5 @@ You can try out our adventur by [clicking here](start.md)
 This is the plan we came up with when deciding what to make.  
   
 Here are our Github profiles:
-[rileyk0998]()  
-[samaraf5824]()  
+[rileyk0998](https://github.com/rileyk0998)  
+[samaraf5824](https://github.com/samaraf5824)  

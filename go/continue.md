@@ -2,5 +2,5 @@
   
   
 #### Do you want to take the short cut, or the long way?  
-[short cut](short/encounter.md)  
+[Short cut](short/encounter.md)  
 [Long way](long/more-candy.md)

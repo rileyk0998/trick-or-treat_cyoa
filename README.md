@@ -8,6 +8,6 @@ Hope you enjoy it!
   
 This is the plan we came up with when deciding what to make.  
   
-Here are our Github profiles:
+Here are our Github profiles:  
 [rileyk0998](https://github.com/rileyk0998)  
 [samaraf5824](https://github.com/samaraf5824)  

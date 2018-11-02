@@ -1,3 +1,3 @@
-### Maybe you'll try again next year.  
+### BOOOOO!!! Party Pooper!! You should go next year.  
   
 [Next Year](../start.md)  

@@ -1,1 +1,1 @@
-You manage to run away and go [home](../../dont-go/end.md).  
+You manage to run away and go [home](fail.md).  
